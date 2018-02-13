@@ -1,0 +1,13 @@
+---
+mail_from: info@example.com
+
+chk_host_list:
+  - uri: google.com
+    mail: 
+      - alert@example.com
+      - alert2@example.com
+  - uri: www.amazon.com
+    mail: 
+      - alert@example.com
+
+
