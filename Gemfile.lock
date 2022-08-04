@@ -14,7 +14,7 @@ GEM
     mini_mime (1.0.0)
     minitest (5.14.1)
     thread_safe (0.3.6)
-    tzinfo (1.2.7)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
 
 PLATFORMS
